@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad Abdullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6L8E.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/6L8E.gif](https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611d4c0b7d65cb69722da3986e9aa6a5fe51da90e7c&rid=giphy.gif&ct=g)">
 
 - 🌱 I’m currently learning **JavaScript**
 
