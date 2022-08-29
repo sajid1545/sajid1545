@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad Abdullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajid1545" alt="sajid1545" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS**
@@ -11,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sajid abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajid abdullah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajjad-abdullah-22b5b322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad-abdullah-22b5b322b" height="30" width="40" /></a>
+<a href="https://fb.com/sajid.abdullah.1422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajid.abdullah.1422" height="30" width="40" /></a>
 <a href="https://instagram.com/_.sajid1545._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sajid1545._" height="30" width="40" /></a>
 </p>
 
