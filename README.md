@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sajid/count.svg?"  />
+</div>
 
+###
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -14,11 +18,24 @@
 - 📫 How to reach me **clashking1545@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sajjad-abdullah-22b5b322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad-abdullah-22b5b322b" height="30" width="40" /></a>
-<a href="https://fb.com/sajid.abdullah.1422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajid.abdullah.1422" height="30" width="40" /></a>
-<a href="https://instagram.com/_.sajid1545._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sajid1545._" height="30" width="40" /></a>
-</p>
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sajjad-abdullah-22b5b322b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://web.facebook.com/sajid.abdullah.1422" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/_.sajid1545._/?hl=en" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/sajid#1261" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
 
 <hr>
 
