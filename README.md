@@ -25,9 +25,9 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=codeSTACKr)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=neon-dark)](https://git.io/streak-stats) 
 
