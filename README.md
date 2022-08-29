@@ -44,6 +44,4 @@
 
 <hr>
 
-<br clear="both">
 
-<img href="https://raw.githubusercontent.com/sajid/sajid/blob/output/snake.svg" alt="Snake animation" />
