@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad Abdullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6L8E.gif">
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -22,6 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&locale=en" alt="sajid1545" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&" alt="sajid1545" /></p>
+
 
 
 
