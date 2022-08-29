@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad Abdullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[[https://i.gifer.com/6L8E.gif](https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611d4c0b7d65cb69722da3986e9aa6a5fe51da90e7c&rid=giphy.gif&ct=g)](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116ffdd9e733079a6c3115328cf20ce543a0c2cda4&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -23,6 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&locale=en" alt="sajid1545" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&" alt="sajid1545" /></p>
+
 
 
 
