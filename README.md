@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **clashking1545@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">🔗 Connect with me:</h1>
 <br clear="both">
 
 <div align="left">
@@ -39,7 +39,7 @@
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+# 💻 Tech Stack: :
 <br clear="both">
 
 <div align="left">
@@ -56,9 +56,6 @@
 <hr>
 
 # 📊 GitHub Stats:
-
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
