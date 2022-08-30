@@ -67,6 +67,12 @@
 
 <hr>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
 ![snake gif](https://github.com/sajid1545/sajid1545/blob/output/github-contribution-grid-snake.gif)
 
