@@ -1,8 +1,12 @@
+
+
+###
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/sajid/count.svg?"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -10,6 +14,8 @@
 
 <h1 align="center">Hi 👋, I'm Sajjad Abdullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
+
+
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -39,7 +45,8 @@
 
 <hr>
 
-# 💻 Tech Stack: :
+<h1> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px> </h1>
+
 <br clear="both">
 
 <div align="left">
@@ -55,7 +62,7 @@
 
 <hr>
 
-# 📊 GitHub Stats:
+# <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' > GitHub Stats: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
