@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **clashking1545@gmail.com**
 
-<h1 align="left">🔗 Connect with me:</h1>
+<h1> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h1>
 <br clear="both">
 
 <div align="left">
