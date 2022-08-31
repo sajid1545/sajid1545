@@ -75,11 +75,14 @@
 
 <hr>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<hr>
+---
+
+
 
 
 ![snake gif](https://github.com/sajid1545/sajid1545/blob/output/github-contribution-grid-snake.gif)
+
+
 
