@@ -16,7 +16,6 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS**
