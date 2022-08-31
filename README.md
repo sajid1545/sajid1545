@@ -15,6 +15,7 @@
 <h1 align="center">Hi, I'm Sajjad Abdullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me :
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -65,11 +66,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=codeSTACKr)  
 
-<hr>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=neon-dark)](https://git.io/streak-stats) 
 
