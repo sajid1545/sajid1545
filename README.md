@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=c5f015&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Sajjad.;I+Am+a+Web+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=39ff14&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Sajjad.;I+Am+a+Web+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)
 
 ###
 
