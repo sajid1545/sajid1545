@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Sajjad Abdullah</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me :
 
