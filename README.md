@@ -12,36 +12,22 @@
   <img src="https://i.ibb.co/WF5VPHp/Sajjad-Abdullah.jpg" width="900" height="300"/>
 </div>
 
-<h1 align="center">Hi, I'm Sajjad Abdullah</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<!-- <h1 align="center">Hi, I'm Sajjad Abdullah</h1>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3> -->
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me :
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS**
 
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ypEvG2R3BSvICpGE2QkaH-XYTW_byex4/view?usp=sharing)
+
 - 📫 How to reach me **clashking1545@gmail.com**
 
-<h1> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h1>
-<br clear="both">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sajjad-abdullah-22b5b322b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://web.facebook.com/sajid.abdullah.1422" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/_.sajid1545._/?hl=en" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/sajid#1261" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
 
-###
+
 
 <hr>
 
@@ -106,3 +92,24 @@ Other        2 hrs 14 mins   -------------------------   00.54 %
 ```
 
 <!--END_SECTION:waka-->
+
+##
+
+<h1> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h1>
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sajjad-abdullah-22b5b322b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://web.facebook.com/sajid.abdullah.1422" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/_.sajid1545._/?hl=en" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/sajid#1261" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
