@@ -17,9 +17,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Firebase Authorization**
 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ypEvG2R3BSvICpGE2QkaH-XYTW_byex4/view?usp=sharing)
 
