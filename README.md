@@ -97,7 +97,7 @@ Other        2 hrs 15 mins   -------------------------   00.54 %
 
 <!--END_SECTION:waka-->
 
-##
+
 
 <h1> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h1>
 <br clear="both">
