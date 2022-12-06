@@ -65,10 +65,12 @@
 
 # <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' > GitHub Stats: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=codeSTACKr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=codeSTACKr)  
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=transparent)  
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=neon-dark)](https://git.io/streak-stats) 
