@@ -123,7 +123,7 @@ Other        2 hrs 15 mins   -------------------------   00.54 %
 ##
 
 <div align="center">
-  <h4 align="center">Thank you for Visiting 💚</h1>
+  <h4 align="center">Thank you for Visiting 💚 </h1>
   <img src="https://profile-counter.glitch.me/sajid/count.svg?"  />
 </div>
 
