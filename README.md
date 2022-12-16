@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Firebase Authentication**
 
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ypEvG2R3BSvICpGE2QkaH-XYTW_byex4/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13FWUJHDbsaTJ1ObZ0o6UTFVhDJPEgbNl/view?usp=sharing)
 
 - 📫 How to reach me **sajjadabdullah9962@gmail.com**
 
