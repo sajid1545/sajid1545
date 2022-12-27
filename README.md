@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Firebase Authentication**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Firebase Authentication, MongoDB and Express.js**
 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13FWUJHDbsaTJ1ObZ0o6UTFVhDJPEgbNl/view?usp=sharing)
 
