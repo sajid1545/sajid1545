@@ -9,7 +9,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://i.ibb.co/2FSwtBf/Junior-Web-Dev.jpg" />
+  <img src="https://i.ibb.co/x7RNNqT/Robert-Laurent.jpg" />
 </div>
 
 <!-- <h1 align="center">Hi, I'm Sajjad Abdullah</h1>
