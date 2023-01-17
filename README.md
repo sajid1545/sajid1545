@@ -85,14 +85,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 14 January 2023
+From: 13 September 2022 - To: 15 January 2023
 
-Total Time: 519 hrs 28 mins
+Total Time: 521 hrs 19 mins
 
-JavaScript   477 hrs 38 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.95 %
-CSS          16 hrs 38 mins  >------------------------   03.20 %
-JSON         9 hrs 13 mins   -------------------------   01.78 %
-HTML         4 hrs 45 mins   -------------------------   00.92 %
+JavaScript   477 hrs 53 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.67 %
+CSS          16 hrs 38 mins  >------------------------   03.19 %
+JSON         10 hrs 34 mins  >------------------------   02.03 %
+HTML         4 hrs 51 mins   -------------------------   00.93 %
 Markdown     3 hrs 23 mins   -------------------------   00.65 %
 Other        2 hrs 56 mins   -------------------------   00.57 %
 ```
