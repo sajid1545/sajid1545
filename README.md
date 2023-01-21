@@ -73,7 +73,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=chartreuse-dark)  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=neon-dark)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=chartreuse-dark)](https://git.io/streak-stats) 
 
 <hr>
 
