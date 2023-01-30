@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Firebase Authentication, MongoDB and Express.js**
 
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13FWUJHDbsaTJ1ObZ0o6UTFVhDJPEgbNl/view?usp=sharing)
+- 👷‍♂️ I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13FWUJHDbsaTJ1ObZ0o6UTFVhDJPEgbNl/view?usp=sharing)
 
 - 📫 How to reach me **sajjadabdullah9962@gmail.com**
 
@@ -38,7 +38,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  /> -->
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
