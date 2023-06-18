@@ -68,15 +68,10 @@
 
 # <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' > GitHub Stats: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=chartreuse-dark&layout=compact" alt="sajid1545" /></p>
 
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=chartreuse-dark)  
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=chartreuse-dark)](https://git.io/streak-stats) 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=chartreuse-dark" alt="sajid1545" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=chartreuse-dark" alt="sajid1545" /></p>
 
 <p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajid1545" alt="sajid1545" /></a> </p>
 
