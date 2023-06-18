@@ -78,6 +78,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=chartreuse-dark)](https://git.io/streak-stats) 
 
+<p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajid1545" alt="sajid1545" /></a> </p>
+
 <hr>
 
 
