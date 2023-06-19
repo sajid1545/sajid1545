@@ -27,6 +27,7 @@
 
 - 📫 How to reach me **sajjadabdullah9962@gmail.com**
 
+&nbsp;
 
  ##  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px>  Languages & Tools
 
@@ -48,35 +49,33 @@
   <img src="https://github.com/sajid1545/sajid1545/blob/main/exp.svg" style="background-color:blue;" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-
-
-
 </div>
 
+&nbsp;
 
-
-## <img style="margin-top: 30px;" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' > GitHub Stats: 
+## <img style="margin-top: 10px;" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' > GitHub Stats: 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=chartreuse-dark&layout=compact" alt="sajid1545" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=chartreuse-dark" alt="sajid1545" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=chartreuse-dark" alt="sajid1545" /></p>
 
+&nbsp;
 
 ## 🏆 GitHub Trophies
 <p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajid1545&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" alt="sajid1545" /></a> </p>
 
-
+&nbsp;
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sajid1545&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-
+&nbsp;
 
 ![snake gif](https://github.com/sajid1545/sajid1545/blob/output/github-contribution-grid-snake.svg)
 
 
-
+&nbsp;
 
 
 
