@@ -28,14 +28,7 @@
 - 📫 How to reach me **sajjadabdullah9962@gmail.com**
 
 
-
-
-
-<hr>
-
-<h1> Languages & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px> </h1>
-
-<br clear="both">
+ ##  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 40px height=30px>  Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -56,26 +49,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 
-###
 
 
-###
 </div>
 
-###
 
-<hr>
 
-# <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' > GitHub Stats: 
+## <img style="margin-top: 30px;" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' > GitHub Stats: 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid1545&theme=chartreuse-dark&layout=compact" alt="sajid1545" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=chartreuse-dark" alt="sajid1545" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=chartreuse-dark" alt="sajid1545" /></p>
 
+
+## 🏆 GitHub Trophies
 <p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajid1545&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" alt="sajid1545" /></a> </p>
 
-<hr>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sajid1545&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 
 ![snake gif](https://github.com/sajid1545/sajid1545/blob/output/github-contribution-grid-snake.svg)
@@ -86,7 +81,7 @@
 
 
 
-<h1> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h1>
+## Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> 
 <br clear="both">
 
 <div align="left">
@@ -104,8 +99,6 @@
   </a>
 </div>
 
-
-##
 
 <div align="center">
   <h4 align="center">Thank you for Visiting 💚 </h1>
