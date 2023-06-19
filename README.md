@@ -62,7 +62,7 @@
 
 &nbsp;
 
-## 🏆 GitHub Trophies
+##  <img  style="margin-bottom: -5px;" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW50Zmh2Mm1wMGxkaGp5MWE1dmtkN21wYzBvZmh3cjA4d3d0ajl0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8XhEqSstMlwyyseiq0/giphy.gif" width = 40px height=30px > GitHub Trophies
 <p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajid1545&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" alt="sajid1545" /></a> </p>
 
 &nbsp;
