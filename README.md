@@ -21,7 +21,7 @@
 
 - 💬 Ask me about `HTML, CSS, JavaScript, Tailwind CSS, React, Firebase Authentication, Redux,  MongoDB, and Express.js`
 
-<!-- - 👷‍♂️ I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1fEhoSoyCvkzLfE24dzsBhJVvrI9Rh7tT/view?usp=sharing) -->
+- 🏢 Here  is [my resume](https://drive.google.com/file/d/1fEhoSoyCvkzLfE24dzsBhJVvrI9Rh7tT/view?usp=sharing) 
 
 - 👷‍♂️ I’m currently working as an Associate Software Engineer at Ekopii
 
