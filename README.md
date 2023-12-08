@@ -49,6 +49,7 @@
   <img src="https://github.com/sajid1545/sajid1545/blob/main/exp.svg" style="background-color:blue;" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </div>
 
 &nbsp;
@@ -59,6 +60,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid1545&show_icons=true&theme=chartreuse-dark" alt="sajid1545" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid1545&theme=chartreuse-dark" alt="sajid1545" /></p>
+
 
 &nbsp;
 
