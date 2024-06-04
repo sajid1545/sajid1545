@@ -17,9 +17,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🌱 I’m currently learning **Redux, Typescript**
+- 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about `HTML, CSS, JavaScript, Tailwind CSS, React, Firebase Authentication, Redux,  MongoDB, and Express.js`
+- 💬 Ask me about `HTML, CSS, JavaScript,Typescript, Tailwind CSS, React, Firebase Authentication, Redux,  MongoDB, Express.js, Prisma ORM, Mongoose and Express.js`
 
 - 🏢 Here  is [my resume](https://drive.google.com/file/d/1RaG05dz4DoIyJvjc70HJciPRzlFfCOl1/view?usp=sharing) 
 
@@ -51,7 +51,11 @@
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  &nbsp
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+ 
 
 </div>
 
