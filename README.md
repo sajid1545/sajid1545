@@ -15,7 +15,7 @@
 <!-- <h1 align="center">Hi, I'm Sajjad Abdullah</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3> -->
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About me**
 
 - 🌱 I’m currently learning **GraphQL**
 
