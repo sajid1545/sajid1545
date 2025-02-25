@@ -86,6 +86,12 @@ I am passionate about creating efficient and user-friendly web applications. I t
 
 &nbsp;
 
+
+## 📈 Activity Graph:
+<div align="center"> <a href="https://github.com/sajid1545"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajid1545&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div>
+
+
+
 ##  <img  style="margin-bottom: -10px;" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW50Zmh2Mm1wMGxkaGp5MWE1dmtkN21wYzBvZmh3cjA4d3d0ajl0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8XhEqSstMlwyyseiq0/giphy.gif" width = 40px height=40px > GitHub Trophies
 <p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajid1545&column=8&margin-w=15&margin-h=15&no-bg=true&theme=radical" alt="sajid1545" /></a> </p>
 
