@@ -59,6 +59,7 @@ I am passionate about creating efficient and user-friendly web applications. I t
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://github.com/sajid1545/sajid1545/blob/main/exp.svg" style="background-color:blue;" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" width="52" alt="graphql logo"  />
   <br>
   <br>
   
