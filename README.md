@@ -85,6 +85,9 @@ I love building performant, user-centric web applications and continuously striv
 &nbsp;
 
 
+
+&nbsp;
+
 ## 📈 Activity Graph:
 <div align="center"> <a href="https://github.com/sajid1545"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajid1545&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div>
 
@@ -96,8 +99,10 @@ I love building performant, user-centric web applications and continuously striv
 &nbsp;
 
 ## 📝 Profile Details
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid1545&theme=2077" alt="sajid1545" />
-
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid1545&theme=2077" alt="sajid1545" /> -->
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=sajid1545&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
 
 
 &nbsp;
@@ -129,7 +134,11 @@ I love building performant, user-centric web applications and continuously striv
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <h4 align="center">Thank you for Visiting 💚 </h1>
   <img src="https://profile-counter.glitch.me/sajid/count.svg?"  />
-</div>
+</div> -->
+
+
+
+
