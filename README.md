@@ -88,8 +88,8 @@ I love building performant, user-centric web applications and continuously striv
 
 &nbsp;
 
-## 📈 Activity Graph:
-<div align="center"> <a href="https://github.com/sajid1545"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajid1545&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div>
+
+<!-- <div align="center"> <a href="https://github.com/sajid1545"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajid1545&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div> -->
 
 
 
